@@ -40,6 +40,9 @@
 ![output](problem2.7.png)
 #practice_sheet-2_problem8-soln
 ![output](problem2.8.png)
+#practice_sheet-2_problem9-soln
+![output](problem2.9.png)
+
 
 
 
