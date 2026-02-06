@@ -19,7 +19,7 @@
 #practice_sheet-1_problem-9_soln
 ![output](Picture9.jpg)
 
-#practice_sheet-1_problem-
+#practice_sheet-1_problem-10_soln
 ![output](Picture10.jpg)
 
 
