@@ -44,6 +44,9 @@
 ![output](problem2.9.png)
 #practice_sheet-2_problem10-soln
 ![output](problem2.10.png)
+#practice_sheet-2_problem11-soln
+![output](problem2.11.png)
+
 
 
 
