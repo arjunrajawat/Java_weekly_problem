@@ -8,5 +8,8 @@
 ![output](https://github.com/user-attachments/assets/7fd614e7-c3d7-4ca6-abfe-589448955a47)
 #practice_sheet-1_problem-4_soln
 ![output](https://github.com/user-attachments/assets/4b6f8f20-ec40-4c66-b441-b7ee56789c73)
+#practice_sheet-1_problem-5_soln
+![output](https://github.com/user-attachments/assets/2ed5ea75-f328-43ca-a16d-153e373058ce)
+
 
 
