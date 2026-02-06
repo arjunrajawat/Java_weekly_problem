@@ -16,6 +16,8 @@
 ![output](https://github.com/user-attachments/assets/c59edcf2-5ac5-4299-99fa-81f18291392f)
 #practice_sheet-1_problem-8_soln
 ![output](Picture8.png)
+#practice_sheet-1_problem-9_soln
+![output](Picture9.jpg)
 
 
 
