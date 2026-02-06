@@ -4,5 +4,7 @@
 
 #practice_sheet-1_problem-2_soln
 ![output](https://github.com/user-attachments/assets/9140e4cc-2310-4191-9a25-89521209e3af)
+#practice_sheet-1_problem-3_soln
+![output](https://github.com/user-attachments/assets/7fd614e7-c3d7-4ca6-abfe-589448955a47)
 
 
