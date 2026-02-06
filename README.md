@@ -28,7 +28,7 @@
 ![output](problem2.1.png)
 #practice_sheet-2_problem2-soln
 ![output](problem2.2.png)
-#practice_sheet-2_problem2-soln
+#practice_sheet-2_problem3-soln
 ![output](problem2.3.png)
 
 
