@@ -19,6 +19,9 @@
 #practice_sheet-1_problem-9_soln
 ![output](Picture9.jpg)
 
+#practice_sheet-1_problem-
+![output](Picture10.jpg)
+
 
 
 
