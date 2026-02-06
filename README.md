@@ -22,6 +22,12 @@
 #practice_sheet-1_problem-10_soln
 ![output](Picture10.jpg)
 
+#practice_sheet-2
+
+#practice_sheet-2_problem1-soln
+![output](problem2.1.png)
+
+
 
 
 
