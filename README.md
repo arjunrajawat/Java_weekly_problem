@@ -39,7 +39,7 @@
 #practice_sheet-2_problem7-soln
 ![output](problem2.7.png)
 #practice_sheet-2_problem8-soln
-1[output](problem2.8.png)
+![output](problem2.8.png)
 
 
 
